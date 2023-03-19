@@ -21,7 +21,7 @@ function App() {
     <>
       <Router>
         <Navbar
-          title="Text Editor"
+          title="Text Utilizer"
           about="About Us"
           mode={mode}
           toggleMode={toggleMode}
